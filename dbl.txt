@@ -138,3 +138,6 @@ rutracker.org
 rutracker.net
 rutor.info
 rutor.org
+lostfilm.tv
+lostfilm.run
+lostfilm.uno
