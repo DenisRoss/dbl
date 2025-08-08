@@ -134,3 +134,7 @@ api-iam.intercom.io
 nexus-websocket-a.intercom.io
 nexus-websocket-b.intercom.io
 ct.sendgrid.net
+rutracker.org
+rutracker.net
+rutor.info
+rutor.org
